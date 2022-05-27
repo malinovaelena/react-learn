@@ -7,4 +7,5 @@ class Pure extends React.Component {
   }
 }
 
+
 export default Pure;

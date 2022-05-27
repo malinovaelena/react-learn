@@ -7,5 +7,4 @@ const funcComponent = () => {
   return <div>{greeting}</div>;
 };
 
-
 export default funcComponent;
